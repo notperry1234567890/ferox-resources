@@ -6,3 +6,5 @@ HoleESP enderchest, enchanting table & anvil modes
 SkyColour
 AutoRespawn
 A lot of new HUD Components
+VoidESP
+ThunderHack
