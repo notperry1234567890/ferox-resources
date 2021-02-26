@@ -1,2 +1,2 @@
 # ferox-resources
-Random stuff I store on GitHub for Ferox.
+- Yeah, I should probably move this to a server soon, but I'm lazy.
