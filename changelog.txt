@@ -1,0 +1,8 @@
+New main menu GUI, with component support
+Fixed velocity values
+Surround enderchest mode
+Fixed block placements on replacable blocks
+HoleESP enderchest, enchanting table & anvil modes
+SkyColour
+AutoRespawn
+A lot of new HUD Components
