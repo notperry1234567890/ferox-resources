@@ -1,10 +1,15 @@
-New main menu GUI, with component support
-Fixed velocity values
-Surround enderchest mode
-Fixed block placements on replacable blocks
-HoleESP enderchest, enchanting table & anvil modes
-SkyColour
-AutoRespawn
-A lot of new HUD Components
-VoidESP
-ThunderHack
+- New main menu GUI, with component support
+- Fixed velocity values
+- Surround enderchest mode
+- Fixed block placements on replacable blocks
+- HoleESP enderchest, enchanting table & anvil modes
+- SkyColour
+- AutoRespawn
+- A lot of new HUD Components
+- VoidESP
+- ThunderHack
+- ThrowTrails
+- Drawn support for modules
+- Backgrounds to GUI screens
+- Option to remove GUI indicators
+- Fixed HoleESP saving/loading
